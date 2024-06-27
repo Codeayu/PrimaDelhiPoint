@@ -1,7 +1,3 @@
-# PrimaDelhiPoint
-<br>
-Certainly! Here’s a transformed version of your text to fit the GitHub README format:
-
 ---
 
 # Prima Delhi Point
