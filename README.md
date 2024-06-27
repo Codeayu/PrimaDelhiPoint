@@ -4,7 +4,7 @@
 
 # Prima Delhi Point
 
-[![Website](https://img.shields.io/badge/Website-Live-blue)](https://primadelhipoint.netlify.com)
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://primadelhipoint.netlify.app)
 
 ## Objective
 
@@ -53,7 +53,7 @@ Successfully delivered a fully functional tourist information website, meeting p
 - Problem-Solving
 
 ## Links
-- **Website**: [Prima Delhi Point](https://primadelhipoint.netlify.com)
+- **Website**: [Prima Delhi Point](https://primadelhipoint.netlify.app)
 - **Code Repository**: [GitHub - Codeayu/PrimaDelhiPoint](https://github.com/Codeayu/PrimaDelhiPoint)
 
 ---
